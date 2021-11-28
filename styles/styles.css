@@ -16,7 +16,7 @@ body {
   font-size: 14px;
   background-color: rgb(251, 253, 253);
   color: black;
-  background-image: url("/img/bgSnow.jpg");
+  background-image: url("../img/bgSnow.jpg");
   background-position: center;
   background-size: cover;
 }
