@@ -76,14 +76,6 @@ img {
   flex-wrap: wrap;
   align-items: center;
 }
-/* @media screen and (min-width: 768px) {
-  .wrap {
-    display: inline-flex;
-    justify-content: center;
-    flex-wrap: nowrap;
-    align-items: center;
-  }
-} */
 
 .table {
   margin-right: auto;
